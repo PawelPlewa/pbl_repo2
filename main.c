@@ -5,6 +5,7 @@
 #include<stdio.h>
 int main() {
     puts("Hello world");
+    puts("Bonjour mon ami de bourgeoisie");
     return 0;
 }
 
